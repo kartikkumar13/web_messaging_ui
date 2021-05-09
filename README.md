@@ -6,7 +6,7 @@ i am trying to create fully responsive web messenging UI. I have created light a
 1. here it is offcial website " https://nodejs.org/en/ ".
 2. check out documentation on website and install it.
 3. run cmd & go to project folder.
-4. run npm start.
+4. run **npm start**.
 
 Now nodejs server started.
 
@@ -16,6 +16,6 @@ Now nodejs server started.
 
 ## if you want to build tailwind css again
 1. run cmd & go to project folder.
-2. run *npm run css*.
+2. run **npm run css**.
 
 your tailwind css rebuild now.
