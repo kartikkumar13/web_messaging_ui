@@ -18,8 +18,6 @@ Now nodejs server started.
 1. run cmd & go to project folder.
 2. run **npm run css**.
 
-your tailwind css rebuild now.
-
 # Screenshots
 ### light mode
 ![chat-ui-light-desktop](https://user-images.githubusercontent.com/54768757/117575432-5d18fd80-b0ff-11eb-96e5-845fc146cc42.png)
