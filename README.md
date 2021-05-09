@@ -14,8 +14,18 @@ Now nodejs server started.
 1. go to public_html.
 2. duoble tap on index.html.
 
-## if you want to build tailwind css again
+### if you want to build tailwind css again
 1. run cmd & go to project folder.
 2. run **npm run css**.
 
 your tailwind css rebuild now.
+
+# Screenshots
+### light mode
+![chat-ui-light-desktop](https://user-images.githubusercontent.com/54768757/117575432-5d18fd80-b0ff-11eb-96e5-845fc146cc42.png)
+### dark mode
+![chat-ui-desktop](https://user-images.githubusercontent.com/54768757/117575436-61451b00-b0ff-11eb-8121-5aa7280aca85.png)
+### mobile view
+![chat-ui-menu-mobile](https://user-images.githubusercontent.com/54768757/117575458-7cb02600-b0ff-11eb-9993-110dae6cca77.png)
+![chat-ui-mobile](https://user-images.githubusercontent.com/54768757/117575460-7de15300-b0ff-11eb-92aa-fe243adba3c1.png)
+
