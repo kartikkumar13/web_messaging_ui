@@ -26,6 +26,6 @@ your tailwind css rebuild now.
 ### dark mode
 ![chat-ui-desktop](https://user-images.githubusercontent.com/54768757/117575436-61451b00-b0ff-11eb-8121-5aa7280aca85.png)
 ### mobile view
-![chat-ui-menu-mobile](https://user-images.githubusercontent.com/54768757/117575458-7cb02600-b0ff-11eb-9993-110dae6cca77.png)nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;
+![chat-ui-menu-mobile](https://user-images.githubusercontent.com/54768757/117575458-7cb02600-b0ff-11eb-9993-110dae6cca77.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![chat-ui-mobile](https://user-images.githubusercontent.com/54768757/117575460-7de15300-b0ff-11eb-92aa-fe243adba3c1.png)
 
