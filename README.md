@@ -7,7 +7,7 @@ i am trying to create fully responsive web messenging UI. I have created light a
 
 ### if you want to run on NodeJS Server then first install NodeJS on your pc
 1. here it is offcial website " https://nodejs.org/en/ ".
-2. check out documentation ono website and install it.
+2. check out documentation on website and install it.
 3. run cmd & go to project folder.
 4. run npm start.
 
