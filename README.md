@@ -16,6 +16,6 @@ Now nodejs server started.
 
 ## if you want to build tailwind css again
 1. run cmd & go to project folder.
-2. run npm run css.
+2. run *npm run css*.
 
 your tailwind css rebuild now.
